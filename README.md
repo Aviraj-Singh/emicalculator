@@ -23,4 +23,4 @@ The Loan Calculator App is a simple web application built with React.js that hel
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/loan-calculator-app.git
+   git clone https://github.com/Aviraj-Singh/emicalculator.git
