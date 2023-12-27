@@ -32,11 +32,11 @@ The Loan Calculator App is a simple web application built with React.js that hel
 
 3. Install Dependency:
 
-   ``bash
+   ```bash
    npm install
 
 4. Start the server:
 
-   ``bash
+   ```bash
    npm start
 
