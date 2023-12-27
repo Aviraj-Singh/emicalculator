@@ -24,3 +24,19 @@ The Loan Calculator App is a simple web application built with React.js that hel
 
    ```bash
    git clone https://github.com/Aviraj-Singh/emicalculator.git
+
+2. Navigate to the directory:
+
+   ```bash
+   cd loan-calculator-app
+
+3. Install Dependency:
+
+   ``bash
+   npm install
+
+4. Start the server:
+
+   ``bash
+   npm start
+
